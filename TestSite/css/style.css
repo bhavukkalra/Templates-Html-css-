@@ -1,0 +1,59 @@
+
+
+
+/* 
+body{
+    background-image: url(../images/stars_gif.gif)
+repeating
+}
+ */
+body{
+
+    background: url(../images/test_image.jpg)
+        
+        center center;
+    background-size: cover
+   
+}
+
+div{
+    margin-top: 400px;
+    background-color: #B0F6B0;
+        
+}
+
+
+h1{
+    color:white;
+/*    text-align: center;*/
+/*    border: 5px solid red;*/
+    
+/*    very usefull trick only works with comosite width*/
+/*
+    width: 400px;
+    padding: 20px;
+    
+    margin-top: 300px;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 2em;
+    
+*/
+    margin:  0px auto;
+    
+    text-align: center;
+    border: red solid
+        
+        
+        
+}
+/* quick go to template*/
+
+/*
+body{
+     background: url(../images/test_image.jpg)
+        no repeat center center fixed;
+    background-size: cover 
+}
+*/
+
+
